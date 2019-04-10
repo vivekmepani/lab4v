@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CarInventory
+</name>
+</assembly>
+<members>
+<member name="T:CarInventory.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CarInventory.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CarInventory.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CarInventory.frmCarInventory">
+ <summary>
+ Author Name:    Darshan patel
+ Project Name:   Car Inventory
+ Date:           15 March, 2019
+ Description     This is a lab 4 for NETD class, keeps record for the cars
+ </summary>
+ 
+</member>
+</members>
+</doc>
